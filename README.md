@@ -17,5 +17,5 @@ Due to an extreme lack of time and smarts, this game is pretty damn far from bei
 There's a lot...Don't try to break it, because I can guarantee you will.
 ![](https://github.com/Hannnah1/PURRgatory/blob/main/Screen%20Shot%202021-04-19%20at%2012.56.31%20AM.png)
 
-#Aknowladgements
+# Aknowledgements
 (Finish this section once I have permission to put peoples names on here)
