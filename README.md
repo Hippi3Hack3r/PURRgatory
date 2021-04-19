@@ -1,5 +1,5 @@
 # PURRgatory
-Purrgatory is a 3d rpg following the story of a cat stuck in cat purgatory.  To fully move on to the cat afterlife he must travel back through his 9 lives, rescuing each soul along the way. Luckily Pj (The cat) is not alone in purrgatory and finds plenty of other dead cat friends to help him along the way. ![Image](https://github.com/Hannnah1/PURRgatory/blob/main/Screen%20Shot%202021-04-19%20at%2012.52.07%20AM.png)
+Purrgatory is an rpg following the story of a cat stuck in cat purgatory.  To fully move on to the cat afterlife he must travel back through his 9 lives, rescuing each soul along the way. Luckily Pj (The cat) is not alone in purrgatory and finds plenty of other dead cat friends to help him along the way. ![Image](https://github.com/Hannnah1/PURRgatory/blob/main/Screen%20Shot%202021-04-19%20at%2012.52.07%20AM.png)
 
 # Development
 This began as my undergraduate thesis project. Currently this repository only exists as an easy means for friends and classmates to download and play the game.
