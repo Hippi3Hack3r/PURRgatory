@@ -8,7 +8,7 @@ Purrgatory is an rpg following the story of a cat stuck in cat purgatory.  To fu
 I hope to turn this into an actual game eventually.
 Right now its just A POC developed in 3 months for my Senior Project. The link above should bring you to a folder with a build for Windows, Mac, & Linux.
 
-#Gameplay
+# Gameplay
 * WASD keys to move
 * Space to jump
 * E to chat
