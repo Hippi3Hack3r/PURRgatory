@@ -19,4 +19,4 @@ There's a lot of bugs...Don't try to break it, because I can guarantee you will.
 ![](https://github.com/Hannnah1/PURRgatory/blob/main/Screen%20Shot%202021-04-19%20at%2012.56.31%20AM.png)
 
 # Aknowledgements
-Development by Hannah Cartier, Zach Hoagen. Special thanks to Casandra Garcia.
+Development by Hannah Cartier, Zach Hogan. Special thanks to Casandra Garcia.
